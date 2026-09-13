@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.6",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.1.6/home-v1.1.6.apk",
-  "notes": "Fix popup OTA: D-pad điều hướng trực tiếp, chỉ hiện sau khi launcher ổn định (hết splash) → bấm được CẬP NHẬT/ĐỂ SAU"
+  "versionCode": 9,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.1.7/home-v1.1.7.apk",
+  "notes": "Thêm bộ sưu tập Mèo (Cat) + Phong cảnh các nước trên thế giới; danh sách bộ sưu tập cuộn được khi nhiều mục"
 }
