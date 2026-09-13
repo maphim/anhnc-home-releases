@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.5",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.1.5/home-v1.1.5.apk",
-  "notes": "Popup OTA dung Dialog, focus ro rang"
+  "versionCode": 8,
+  "versionName": "1.1.6",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.1.6/home-v1.1.6.apk",
+  "notes": "Fix popup OTA: D-pad điều hướng trực tiếp, chỉ hiện sau khi launcher ổn định (hết splash) → bấm được CẬP NHẬT/ĐỂ SAU"
 }
