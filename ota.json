@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.2.0/home-v1.2.0.apk",
-  "notes": "Quản lý xem TV cho bé: cổng mở app (Bé xem / Bố mẹ xem + mã PIN 4 số), nhắc làm bài tập trước khi xem, đếm giờ xem thực theo ngày, tự khoá khi hết giờ, khu cài đặt cho bố mẹ (icon khoá góc phải)"
+  "versionCode": 12,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.2.1/home-v1.2.1.apk",
+  "notes": "Dock ứng dụng chỉ hiện app bạn tự cài — ẩn app hệ thống/nhà sản xuất (Bảo vệ an toàn, copyDataToTV, Cuộc gọi video) khỏi slot trống, dock gọn hơn"
 }
