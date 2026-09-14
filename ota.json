@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.1.7",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.1.7/home-v1.1.7.apk",
-  "notes": "Thêm bộ sưu tập Mèo (Cat) + Phong cảnh các nước trên thế giới; danh sách bộ sưu tập cuộn được khi nhiều mục"
+  "versionCode": 11,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.2.0/home-v1.2.0.apk",
+  "notes": "Quản lý xem TV cho bé: cổng mở app (Bé xem / Bố mẹ xem + mã PIN 4 số), nhắc làm bài tập trước khi xem, đếm giờ xem thực theo ngày, tự khoá khi hết giờ, khu cài đặt cho bố mẹ (icon khoá góc phải)"
 }
