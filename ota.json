@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.5.2",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.5.2/home-v1.5.2.apk",
-  "notes": "Tile CAMERA: xem ảnh camera nhà/cửa hàng làm mới 3 giây/lần, bấm OK để xem live bằng AnhNC TV (relay go2rtc trên PC). Kèm ô nhớ cleartext cho HTTP nội bộ."
+  "versionCode": 20,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.6.0/home-v1.6.0.apk",
+  "notes": "Màn CAMERA giờ hiển thị trạng thái thật của 2 camera Tapo (online/offline, firmware) lấy từ Tapo Cloud qua máy tính; bỏ nguồn test VTV. Ghi rõ lý do chưa có hình (Tapo cloud không trả clip + camera ở mạng khác)."
 }
