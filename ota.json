@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.9.0",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.9.0/home-v1.9.0.apk",
-  "notes": "Màn nghe: nút Đáp án dùng icon con mắt (hết nhầm với nút phát), tách hàng riêng nên không bị cắt chữ; tự hiện đáp án khi tạm dừng, ẩn lại khi phát tiếp."
+  "versionCode": 38,
+  "versionName": "1.10.0",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.10.0/home-v1.10.0.apk",
+  "notes": "Màn ĐỌC (Reading): Part 5 random 900 câu (chọn đáp án, tính điểm) + Part 6/7 chia đôi màn hình — trái là ảnh passage (nút Xem to đọc full màn hình), phải là câu hỏi + lựa chọn với nút Đoạn tiếp theo / Hiện đáp án. Thêm tile icon sách trên thanh trên cùng."
 }
