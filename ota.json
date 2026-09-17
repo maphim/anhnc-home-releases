@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.8.2",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.8.2/home-v1.8.2.apk",
-  "notes": "Nghe ETS + HÌNH: sửa icon −15s/+15s (đúng chiều tua), TỰ ĐỘNG chuyển sang đề kế khi hết bài (playlist 30 đề, nghe nền vẫn tự next). Giữ chia đôi màn hình: trái ảnh, phải câu hỏi + điều khiển audio."
+  "versionCode": 34,
+  "versionName": "1.8.7",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.8.7/home-v1.8.7.apk",
+  "notes": "Màn nghe: Part 2 có badge + 3 ô A/B/C lớn (sáng xanh khi bật Đáp án), nút Đáp án chạy cho Part 1/2, chip đề tự nhảy theo bài đang phát."
 }
