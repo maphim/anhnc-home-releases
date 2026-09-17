@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.7.0",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.7.0/home-v1.7.0.apk",
-  "notes": "Thêm 2 tile học TOEIC: PART 5 (900 câu ETS ngẫu nhiên, chọn đáp án bằng remote, hiện đúng/sai + điểm) và NGHE THỤ ĐỘNG (chọn đề → phát trọn phần Listening liên tục qua AnhNC TV). UI trong suốt theo theme launcher."
+  "versionCode": 29,
+  "versionName": "1.8.2",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.8.2/home-v1.8.2.apk",
+  "notes": "Nghe ETS + HÌNH: sửa icon −15s/+15s (đúng chiều tua), TỰ ĐỘNG chuyển sang đề kế khi hết bài (playlist 30 đề, nghe nền vẫn tự next). Giữ chia đôi màn hình: trái ảnh, phải câu hỏi + điều khiển audio."
 }
