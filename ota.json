@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.8.7",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.8.7/home-v1.8.7.apk",
-  "notes": "Màn nghe: Part 2 có badge + 3 ô A/B/C lớn (sáng xanh khi bật Đáp án), nút Đáp án chạy cho Part 1/2, chip đề tự nhảy theo bài đang phát."
+  "versionCode": 37,
+  "versionName": "1.9.0",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.9.0/home-v1.9.0.apk",
+  "notes": "Màn nghe: nút Đáp án dùng icon con mắt (hết nhầm với nút phát), tách hàng riêng nên không bị cắt chữ; tự hiện đáp án khi tạm dừng, ẩn lại khi phát tiếp."
 }
