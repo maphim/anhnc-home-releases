@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.6.0",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.6.0/home-v1.6.0.apk",
-  "notes": "Màn CAMERA giờ hiển thị trạng thái thật của 2 camera Tapo (online/offline, firmware) lấy từ Tapo Cloud qua máy tính; bỏ nguồn test VTV. Ghi rõ lý do chưa có hình (Tapo cloud không trả clip + camera ở mạng khác)."
+  "versionCode": 22,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.7.0/home-v1.7.0.apk",
+  "notes": "Thêm 2 tile học TOEIC: PART 5 (900 câu ETS ngẫu nhiên, chọn đáp án bằng remote, hiện đúng/sai + điểm) và NGHE THỤ ĐỘNG (chọn đề → phát trọn phần Listening liên tục qua AnhNC TV). UI trong suốt theo theme launcher."
 }
