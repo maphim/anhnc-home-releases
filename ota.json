@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.4.3",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.4.3/home-v1.4.3.apk",
-  "notes": "Radar mưa hiển thị đúng: đổi base map sang OpenStreetMap (CARTO yêu cầu API key) và cắt đúng phần ảnh radar phóng lên khung xem. Kèm 2 tile Giao thông + Mưa từ 1.4.0"
+  "versionCode": 19,
+  "versionName": "1.5.2",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.5.2/home-v1.5.2.apk",
+  "notes": "Tile CAMERA: xem ảnh camera nhà/cửa hàng làm mới 3 giây/lần, bấm OK để xem live bằng AnhNC TV (relay go2rtc trên PC). Kèm ô nhớ cleartext cho HTTP nội bộ."
 }
