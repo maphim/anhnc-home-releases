@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.4.0/home-v1.4.0.apk",
-  "notes": "2 tile mới: 🚗 Giao thông = camera live Hà Nội (bấm: kênh Hanoi Live Cam 24/7; nhấn giữ ≥0,6s: VOV Giao thông FM91 giờ cao điểm) và 💧 Mưa = radar mưa Hà Nội quanh Vinhomes Smart City (CARTO + RainViewer, tự cập nhật 5 phút/lần, BACK để thoát)"
+  "versionCode": 16,
+  "versionName": "1.4.3",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.4.3/home-v1.4.3.apk",
+  "notes": "Radar mưa hiển thị đúng: đổi base map sang OpenStreetMap (CARTO yêu cầu API key) và cắt đúng phần ảnh radar phóng lên khung xem. Kèm 2 tile Giao thông + Mưa từ 1.4.0"
 }
