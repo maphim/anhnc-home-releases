@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.10.0",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.10.0/home-v1.10.0.apk",
-  "notes": "Màn ĐỌC (Reading): Part 5 random 900 câu (chọn đáp án, tính điểm) + Part 6/7 chia đôi màn hình — trái là ảnh passage (nút Xem to đọc full màn hình), phải là câu hỏi + lựa chọn với nút Đoạn tiếp theo / Hiện đáp án. Thêm tile icon sách trên thanh trên cùng."
+  "versionCode": 39,
+  "versionName": "1.10.1",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.10.1/home-v1.10.1.apk",
+  "notes": "Nghe TOEIC: sửa lỗi không phát được audio — khi PC relay tắt, màn nghe hiện rõ '⚠ Không tải được audio' + nút Thử lại (trước đây im lặng, chỉ hiện Tạm dừng). Bỏ nút Dừng khỏi hàng điều khiển (còn Tạm dừng, ±15s, Hiện đáp án)."
 }
