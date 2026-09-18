@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.10.1",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.10.1/home-v1.10.1.apk",
-  "notes": "Nghe TOEIC: sửa lỗi không phát được audio — khi PC relay tắt, màn nghe hiện rõ '⚠ Không tải được audio' + nút Thử lại (trước đây im lặng, chỉ hiện Tạm dừng). Bỏ nút Dừng khỏi hàng điều khiển (còn Tạm dừng, ±15s, Hiện đáp án)."
+  "versionCode": 40,
+  "versionName": "1.10.2",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.10.2/home-v1.10.2.apk",
+  "notes": "Màn nghe: nút Phát giờ phát thật ngay cả khi chưa chọn đề (trước đây bấm không có gì xảy ra). Kèm bản 1.10.1: hiện rõ lỗi khi không tải được audio + nút Thử lại, bỏ nút Dừng."
 }
