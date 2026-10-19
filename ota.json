@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.10.2",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.10.2/home-v1.10.2.apk",
-  "notes": "Màn nghe: nút Phát giờ phát thật ngay cả khi chưa chọn đề (trước đây bấm không có gì xảy ra). Kèm bản 1.10.1: hiện rõ lỗi khi không tải được audio + nút Thử lại, bỏ nút Dừng."
+  "versionCode": 45,
+  "versionName": "1.11.0",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.11.0/home-v1.11.0.apk",
+  "notes": "Giao diện Apple TV: focus phóng to + bóng đổ kiểu tvOS, bỏ viền cyan; header dòng sáng khi giữ focus; đồng hồ lớn hơn; nút tròn có ring trắng"
 }
