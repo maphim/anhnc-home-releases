@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "1.12.2",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.12.2/home-v1.12.2.apk",
-  "notes": "Bỏ TOEIC + camera (giảm lag TV RAM thấp); cài thử thiết bị trước khi publish"
+  "versionCode": 49,
+  "versionName": "1.12.3",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.12.3/home-v1.12.3.apk",
+  "notes": "Release 1.12.3"
 }
