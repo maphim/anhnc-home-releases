@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "1.12.6",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.12.6/home-v1.12.6.apk",
-  "notes": "Chuẩn hóa kích thước theo spec leanback (icon 44dp, hero 27sp)"
+  "versionCode": 53,
+  "versionName": "1.12.7",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.12.7/home-v1.12.7.apk",
+  "notes": "Release 1.12.7"
 }
