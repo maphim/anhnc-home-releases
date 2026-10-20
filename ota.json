@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.11.0",
-  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.11.0/home-v1.11.0.apk",
-  "notes": "Giao diện Apple TV: focus phóng to + bóng đổ kiểu tvOS, bỏ viền cyan; header dòng sáng khi giữ focus; đồng hồ lớn hơn; nút tròn có ring trắng"
+  "versionCode": 46,
+  "versionName": "1.12.0",
+  "apkUrl": "https://github.com/maphim/anhnc-home-releases/releases/download/v1.12.0/home-v1.12.0.apk",
+  "notes": "Release 1.12.0"
 }
